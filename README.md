@@ -15,4 +15,4 @@ Executar probe.py
 $ python3 probe.py
 ```
 
-Link da [Planilha](https://docs.google.com/spreadsheets/d/1mFA4W2FpUhi_gUcvUZfNNyV_VQqcjz8Yv-W_-9PWos0/edit?gid=909281549#gid=909281549)
+Os dados são então jogados em uma [Planilha](https://docs.google.com/spreadsheets/d/1mFA4W2FpUhi_gUcvUZfNNyV_VQqcjz8Yv-W_-9PWos0/edit?gid=909281549#gid=909281549) do GoogleSheets
