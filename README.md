@@ -1,4 +1,9 @@
-Mantenha os arquivos probe.py e service_account.json no mesmo diretório
+# Script criado para coletar informações de diferentes hardwares
+- Baixe o arquivo probe.py
+- Tenha em mãos o arquivo service_account.json
+- Certifique-se de manter os dois arquivos no mesmo diretório
+
+# Passo a passo
 
 Baixar gspread
 ```bash
