@@ -1,4 +1,4 @@
-# Probe_Script
+# Probe Script
 
 ## Script criado para coletar informações de diferentes hardwares
 - Baixe o arquivo probe.py
